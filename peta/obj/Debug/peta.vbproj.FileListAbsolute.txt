@@ -1,0 +1,35 @@
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\bin\Debug\peta.exe
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\bin\Debug\peta.pdb
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\bin\Debug\peta.xml
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.Resources.resources
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.vbproj.GenerateResource.Cache
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.exe
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.xml
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.pdb
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.Form2.resources
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.exe
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.xml
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.pdb
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\bin\Debug\peta.exe
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\bin\Debug\peta.pdb
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\bin\Debug\peta.xml
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.frmMain.resources
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.Form2.resources
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.Resources.resources
+C:\Users\SHS-COMPLAB17\Documents\Visual Studio 2008\Projects\peta\peta\peta\obj\Debug\peta.vbproj.GenerateResource.Cache
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.formMain.resources
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\peta\peta\obj\Debug\peta.genZero.resources
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.exe
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.xml
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.pdb
+C:\Users\sedil\Downloads\peta\peta\bin\Debug\peta.exe
+C:\Users\sedil\Downloads\peta\peta\bin\Debug\peta.pdb
+C:\Users\sedil\Downloads\peta\peta\bin\Debug\peta.xml
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.formMain.resources
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.Form2.resources
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.genZero.resources
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.Resources.resources
+C:\Users\sedil\Downloads\peta\peta\obj\Debug\peta.vbproj.GenerateResource.Cache
